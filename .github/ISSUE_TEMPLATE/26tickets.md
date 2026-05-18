@@ -7,17 +7,18 @@ assignees: ''
 
 ---
 
-## Goal（これが達成ならDone）
-- 上司OKを得て次工程へ進める状態にする
+## Meta
+- Start   : 260
+- Target : 260
 
-## Due Data
-- 260000
+## Goal / Definition of Done
+- 
 
-## Definition of Done（判断基準）
-- [ ] 上司レビューでOK or 修正指示が“具体”になって次アクションが確定
+## Checklist / TODO
+- [ ] 
 
-## Subtasks（Checklist / TODO）
-- [ ] 背景パターン3案に絞る
+## Open Questions / Blockers
+- [ ] 
 
-## Notes / Decisions
-- 決定：背景はグラデ固定、角丸なし
+## Decisions / Notes
+-
